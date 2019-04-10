@@ -1,0 +1,3 @@
+rootProject.name = 'hair_guru_2152'
+
+include ':app'
